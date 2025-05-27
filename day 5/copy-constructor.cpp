@@ -32,7 +32,7 @@ class Teacher {
 
     }
     // syntax for copy constructor: constructor(Reference constructor adrees of the object)
-    Teacher(Teacher &t){
+    Teacher(Teacher &t){   // copy constructor
         name=t.name;
         branch=t.branch;
         qualification=t.qualification;
