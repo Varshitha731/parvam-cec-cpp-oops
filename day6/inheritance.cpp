@@ -30,6 +30,7 @@ class Parent{   // base class
 //2)if derived class uses private accesibility mode then public data & member functions of base class will become private
 //2)if derived class uses public accesibility mode then public data & member functions of base class will remain public
 //class child :Parent{   //Derived class by default private class(accessibility mode-private)
+// Derived class cannot inherit the data & member function of private members of private class
 class child : public Parent{  // derived class (accesbility mode-public)
     public:
         string member_name;
