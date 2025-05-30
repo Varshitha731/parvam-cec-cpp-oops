@@ -1,0 +1,22 @@
+ The car details are as follows : 
+ Car Brand : tata
+ Car Model : ggg
+ Car varient : petrol
+ Launch year : 2345
+Offer price : Rs 12346
+Car has these features :  
+	 1 . hi
+	 2 . lo
+	 3 . ye
+ --------------------------- The car details are as follows : 
+ Car Brand : tata
+ Car Model : curv
+ Car varient : petrol
+ Launch year : 2025
+Offer price : Rs 100000
+Car has these features :  
+	 1 . ee
+	 2 . r
+	 3 . t
+	 4 . y
+ ---------------------------
